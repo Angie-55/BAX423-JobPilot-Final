@@ -1,0 +1,363 @@
+﻿company,normalized_company,company_size_bucket,employee_count_estimate,meets_100_employee_threshold,meets_500_employee_threshold,is_large_company,is_possible_tiny_startup,is_known_h1b_sponsor,is_research_lab,is_public_company,source_url,confidence,notes,last_checked
+"Judge Group, Inc.",judge group,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Santa Monica Seafood Company,santa monica seafood,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Finite920,finite920,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Expeditors,expeditors,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Micron Semiconductor Asia Operations Pte. Ltd,micron semiconductor asia operations pte,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+The Execu|Search Group,the execu search group,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Jack,jack,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+NTT,ntt,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Nigel Frank International,nigel frank international,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+EY,ey,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Lockheed Martin,lockheed martin,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+TomoCredit,tomocredit,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+PulseRise Technologies,pulserise technologies,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Cushman & Wakefield,cushman and wakefield,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Labforward,labforward,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+WEX Inc.,wex,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Saturn Search,saturn search,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Macquarie Group,macquarie group,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+Pure Source Recruitment,pure source recruitment,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Benda Infotech,benda infotech,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+General Motors LLC,general motors,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Ford Motor Company,ford motor,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Zscaler,zscaler,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Bloomberg LP,bloomberg lp,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+Bluetree Group,bluetree group,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Workato,workato,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Insight,insight,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Tesla,tesla,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+"StubHub, Inc.",stubhub,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Taxy.io,taxy io,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+Dhalite Inc.,dhalite,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Siemens Technology,siemens technology,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Michael Page,michael page,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+J&J Retail,j and j retail,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+"Dimensional Thinking, LLC",dimensional thinking,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Theta,theta,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+ALICE + OLIVIA,alice olivia,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Nova Infotek,nova infotek,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+CyberCoders,cybercoders,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+"Sigma Consultants Group, Inc.",sigma consultants group,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+"E2E Alignment Healthcare USA, LLC",e2e alignment healthcare usa,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Activision,activision,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+TTI,tti,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+Notícias de Tecnologia,not cias de tecnologia,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Compliance & Risk Management Recruitment,compliance and risk management recruitment,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+GARGI TECHNOLOGIES INC,gargi technologies,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Century Group,century group,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+"DIVERSANT, LLC.",diversant,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+"Softworld, Inc.",softworld,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+New Balance,new balance,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Synchrony Financial,synchrony financial,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+Samprasoft,samprasoft,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Carnaby Fox,carnaby fox,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Understanding Recruitment,understanding recruitment,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Procom Services,procom services,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Commonwealth Bank - Risk Management,commonwealth bank risk management,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+Ellianse LLC,ellianse,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Placements24,placements24,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+SolarWinds,solarwinds,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+OBRAS Y PROYECTOS ARAEZGARCIA SL,obras y proyectos araezgarcia sl,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Noblesoft Technologies,noblesoft technologies,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Agoda,agoda,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Tria Recruitment,tria recruitment,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+All Native Group,all native group,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Scale.jobs,scale jobs,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+NetJets,netjets,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Falcon Smart IT (FalconSmartIT),falcon smart it falconsmartit,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Bluefin Resources Pty Limited,bluefin resources pty,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Booz Allen Hamilton,booz allen hamilton,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Bajaj Finance Limited,bajaj finance,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+ARM,arm,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Travelers,travelers,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Experis,experis,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Entrego,entrego,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+JSM Consulting,jsm consulting,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+GlobalLogic Ukraine,globallogic ukraine,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Fiserv,fiserv,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+National Geographic,national geographic,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+DataRobot,datarobot,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Selby Jennings QRF,selby jennings qrf,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+"QuantumBlack, AI by McKinsey",quantumblack ai by mckinsey,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+PTR Global,ptr global,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Hewlett-Packard Company,hewlett packard,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+DoseSpot,dosespot,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+Walmart,walmart,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+PwC,pwc,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+Rackner,rackner,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+6923 Roche DC Spain,6923 roche dc spain,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+ITECCO,itecco,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+VirtualVocations,virtualvocations,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Genpact,genpact,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Nailbiter,nailbiter,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+"Lorven Technologies, Inc.",lorven technologies,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+"Cravath, Swaine & Moore LLP",cravath swaine and moore llp,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+Nordstrom,nordstrom,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+"Trigyn Technologies, Inc.",trigyn technologies,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Zyxware Technologies,zyxware technologies,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Appier,appier,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+NAVA Software Solutions,nava software solutions,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Beacon Hill Technologies,beacon hill technologies,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Hays Specialist Recruitment Limited,hays specialist recruitment,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+Plaza Contracting,plaza contracting,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Highmark,highmark,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Heartland Bank & Trust,heartland bank and trust,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+Millennium Consulting,millennium consulting,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Wise,wise,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Stratactico,stratactico,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Canoe Intelligence,canoe intelligence,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+NetPace,netpace,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+JLL,jll,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+Socure,socure,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Xoriant Corporation,xoriant,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Prosper,prosper,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+TransUnion LLC,transunion,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Cision,cision,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+JPMorganChase,jpmorganchase,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+"Fragomen, Del Rey, Bernsen & Loewy, LLP",fragomen del rey bernsen and loewy llp,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+SingTel,singtel,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+"Activision Blizzard, Inc.",activision blizzard,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Current,current,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Labcorp,labcorp,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Fintal Partners,fintal partners,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Arthur Lawrence,arthur lawrence,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+RK Infotech LLC,rk infotech,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Alasco,alasco,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+US Tech Solutions,us tech solutions,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+INTEGRATED CARE SOLUTIONS,integrated care solutions,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+NavitasPartners,navitaspartners,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Cleveland Indians,cleveland indians,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+REI Systems,rei systems,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+Within3,within3,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+BNY,bny,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+KPMG China,kpmg china,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+Kforce Technology,kforce technology,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Apple US,apple us,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+HR POD - Hiring Talent Globally,hr pod hiring talent globally,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Deerfoot,deerfoot,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Renewable Energy Group,renewable energy group,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+HSBC,hsbc,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+CyberCX,cybercx,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+Forward Role,forward role,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+KK Associates,kk associates,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Mexa Solutions LTD,mexa solutions,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+National Healthcare Group,national healthcare group,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+Amtex System Inc.,amtex system,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+Jobs via Dice,jobs via dice,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Outposter,outposter,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+eTRANSERVICES,etranservices,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+In Technology Group Limited,in technology group,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Sparta Global,sparta global,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+City National Bank,city national bank,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+Call For Referral,call for referral,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Imprint,imprint,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+"JPMorgan Chase Bank, N.A.",jpmorgan chase bank n a,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+Guidehouse,guidehouse,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+STAND 8,stand 8,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Acrisure,acrisure,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+top itservices AG,top itservices ag,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+TalentBurst,talentburst,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+Perennial Resources International,perennial resources international,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Future Secure AI,future secure ai,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Gables Search Group,gables search group,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Momentum Consulting Corp,momentum consulting,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+ad+one,ad one,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+DATEV eg,datev eg,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+IC Resources,ic resources,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Accenture,accenture,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+Differential.,differential,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Definitive Recruitment Ltd,definitive recruitment,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+STMicroelectronics,stmicroelectronics,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+IntegraFEC,integrafec,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+T-Mobile,t mobile,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+TekPartners,tekpartners,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Computer Futures,computer futures,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Selby Jennings Strategy,selby jennings strategy,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+The Planet Group,the planet group,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+BluJuniper,blujuniper,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Beedata,beedata,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Saksoft,saksoft,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+Headway Tek Inc,headway tek,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Edison Talent,edison talent,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+SPJST,spjst,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+Velera,velera,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+"Sysmind, LLC",sysmind,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+TECHCOMBANK,techcombank,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Intelliswift Software Inc,intelliswift software,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Rockwell Automation Singapore,rockwell automation singapore,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Bank OZK,bank ozk,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+Autodesk,autodesk,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Catalyte,catalyte,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Confidential,confidential,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+"Genuent Global, LLC",genuent global,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Initio Capital,initio capital,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+Robinhood,robinhood,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+Sumitomo Mitsui Banking Corporation,sumitomo mitsui banking,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+Visa,visa,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+Federal Reserve Bank of Boston,federal reserve bank of boston,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+Networkers - Technology Recruitment,networkers technology recruitment,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+DEMAND.com,demand com,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Astro Holdings,astro holdings,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+Raytheon Technologies,raytheon technologies,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Traction Group P/L,traction group p l,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+Insight Global,insight global,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Cyclad,cyclad,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+UST,ust,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+"The Hartford Financial Services Group, Inc.",the hartford financial services group,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+"MISICOM, Inc",misicom,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+Wells Fargo,wells fargo,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+FocusKPI,focuskpi,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+Crossing Hurdles,crossing hurdles,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Sparks Group,sparks group,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+SAP,sap,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+TalentBridge,talentbridge,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+Objective Partners,objective partners,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+Capital Group,capital group,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+TMX Finance,tmx finance,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+"Yoh, A Day & Zimmermann Company",yoh a day and zimmermann,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+Beacon Resources,beacon resources,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+Workday,workday,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+Heitmeyer Consulting,heitmeyer consulting,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+Fannie Mae,fannie mae,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+SUNDUS RECRUITMENT & OUTSOURCING SERVICES LLC,sundus recruitment and outsourcing,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+GEP Worldwide,gep worldwide,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+CVS Health,cvs health,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+SoFi,sofi,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+PRIMUS Global Services Inc.,primus global services,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Goldman Sachs,goldman sachs,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+Searchability,searchability,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Staffbase GmbH,staffbase gmbh,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+GrabTaxi Pte Ltd,grabtaxi pte,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+"Vinsys Information Technology, Inc",vinsys information technology,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+Jefferson Frank,jefferson frank,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Randstad Schweiz AG,randstad schweiz ag,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Revolent,revolent,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Spruce Infotech Inc,spruce infotech,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+Levi Strauss & Co.,levi strauss and,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+The One Group,the one group,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Morgan McKinley,morgan mckinley,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+West Coast Consulting LLC,west coast consulting,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Boeing,boeing,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Rise Technical Recruitment Ltd,rise technical recruitment,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Circle Recruitment,circle recruitment,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+NTT Data,ntt data,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Access Computer Consulting plc,access computer consulting plc,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+GPAC Staffing,gpac staffing,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+Steadily Insurance Agency,steadily insurance agency,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-05
+Inspira Financial,inspira financial,unknown,,,,False,False,False,False,False,,low,no reliable enrichment found,2026-06-06
+Ashdown Group Ltd,ashdown group,unknown,,,,False,False,False,False,False,,low,online enrichment unavailable: no credits remaining,2026-06-06
+IC Creative,ic creative,unknown,,,,False,False,False,False,False,,low,online enrichment unavailable: no credits remaining,2026-06-06
+RethinkFirst,rethinkfirst,unknown,,,,False,False,False,False,False,,low,online enrichment unavailable: no credits remaining,2026-06-06
+Funded Club,funded club,unknown,,,,False,False,False,False,False,,low,online enrichment unavailable: no credits remaining,2026-06-05
+2.halvolink,2 halvolink,unknown,,,,False,False,False,False,False,,low,online enrichment unavailable: no credits remaining,2026-06-05
+BAE Systems,bae systems,unknown,,,,False,False,False,False,False,,low,online enrichment unavailable: no credits remaining,2026-06-05
+AWS Educate,aws educate,unknown,,,,False,False,False,False,False,,low,online enrichment unavailable: no credits remaining,2026-06-05
+ACC,acc,unknown,,,,False,False,False,False,False,,low,online enrichment unavailable: no credits remaining,2026-06-05
+1 point system,1 point system,unknown,,,,False,False,False,False,False,,low,online enrichment unavailable: no credits remaining,2026-06-05
+Aquent Talent,aquent talent,unknown,,,,False,False,False,False,False,,low,online enrichment unavailable: no credits remaining,2026-06-06
+Barclays,barclays,unknown,,,,False,False,False,False,False,,low,online enrichment unavailable: no credits remaining,2026-06-06
+McDonald's,mcdonald s,unknown,,,,False,False,False,False,False,,low,online enrichment unavailable: no credits remaining,2026-06-05
+Alexander Thamm GmbH,alexander thamm gmbh,unknown,,,,False,False,False,False,False,,low,online enrichment unavailable: no credits remaining,2026-06-05
+First National Bank Texas,first national bank texas,unknown,,,,False,False,False,False,False,,low,online enrichment unavailable: no credits remaining,2026-06-05
+Notable,notable,unknown,,,,False,True,False,False,False,,medium,company profile signal inferred from job text,2026-06-06
+Linked Building Pty Ltd,linked building pty,unknown,,,,False,True,False,False,False,,medium,company profile signal inferred from job text,2026-06-05
+Crossover for Work,crossover for work,unknown,,,,False,False,False,True,True,,medium,company profile signal inferred from job text,2026-06-05
+Red Hat,red hat,unknown,,,,False,False,True,False,False,,medium,company profile signal inferred from job text,2026-06-05
+McGregor Boyall,mcgregor boyall,unknown,,,,False,False,False,True,False,,medium,company profile signal inferred from job text,2026-06-06
+Tempo-Team Personaldienstleistungen GmbH,tempo team personaldienstleistungen gmbh,unknown,,,,False,False,False,True,False,,medium,company profile signal inferred from job text,2026-06-05
+Equitable Advisors,equitable advisors,unknown,,,,False,False,False,True,False,,medium,company profile signal inferred from job text,2026-06-06
+Proven Recruiting,proven recruiting,unknown,,,,False,False,False,True,False,,medium,company profile signal inferred from job text,2026-06-06
+PNC Bank,pnc bank,unknown,,,,False,False,False,True,False,,medium,company profile signal inferred from job text,2026-06-06
+CFA Institute,cfa institute,unknown,,,,False,False,False,True,False,,medium,company profile signal inferred from job text,2026-06-06
+Nuvola Resourcing Ltd,nuvola resourcing,unknown,,,,False,False,False,True,False,,medium,company profile signal inferred from job text,2026-06-05
+Harnham,harnham,unknown,,,,False,False,False,True,False,,medium,company profile signal inferred from job text,2026-06-05
+New York City Housing Development Corporation,new york city housing development,unknown,,,,False,False,False,True,False,,medium,company profile signal inferred from job text,2026-06-06
+Dewinter Group,dewinter group,unknown,,,,False,True,False,False,False,,medium,company profile signal inferred from job text,2026-06-06
+Motion Recruitment Partners,motion recruitment partners,unknown,,,,False,False,False,True,False,,medium,company profile signal inferred from job text,2026-06-05
+Apple Inc.,apple,unknown,,,,False,False,True,False,False,,medium,company profile signal inferred from job text,2026-06-06
+BuildOps,buildops,unknown,,,,False,True,False,False,False,,medium,company profile signal inferred from job text,2026-06-06
+Mission Lane,mission lane,unknown,,,,False,True,False,False,False,,medium,company profile signal inferred from job text,2026-06-06
+Transform Labs,transform labs,unknown,,,,False,False,False,True,False,,medium,company profile signal inferred from job text,2026-06-06
+Michael Page Technology,michael page technology,unknown,,,,False,True,False,False,False,,medium,company profile signal inferred from job text,2026-06-05
+Tableau,tableau,unknown,,,,False,True,False,False,False,,medium,company profile signal inferred from job text,2026-06-06
+Federal Reserve System,federal reserve system,unknown,,,,False,False,False,True,False,,medium,company profile signal inferred from job text,2026-06-06
+S&P Global,s and p global,unknown,,,,False,False,False,False,True,,medium,company profile signal inferred from job text,2026-06-06
+BCforward,bcforward,unknown,,,,False,False,False,True,False,,medium,no reliable enrichment found; offline fallback: company profile signal inferred from job text,2026-06-05
+"Amazon Operation Services Philippines, Inc.",amazon operation services philippines,unknown,,,,False,False,False,True,False,,medium,no reliable enrichment found; offline fallback: company profile signal inferred from job text,2026-06-05
+Synergisticit,synergisticit,unknown,,,,False,False,False,True,False,,medium,no reliable enrichment found; offline fallback: company profile signal inferred from job text,2026-06-05
+Signature Consultants,signature consultants,unknown,,,,False,False,False,True,False,,medium,no reliable enrichment found; offline fallback: company profile signal inferred from job text,2026-06-05
+GEICO,geico,unknown,,,,False,False,True,False,False,,medium,no reliable enrichment found; offline fallback: company profile signal inferred from job text,2026-06-05
+"CGI Group, Inc.",cgi group,unknown,,,,False,False,False,True,False,,medium,no reliable enrichment found; offline fallback: company profile signal inferred from job text,2026-06-05
+Shopee,shopee,unknown,,,,False,False,False,True,False,,medium,no reliable enrichment found; offline fallback: company profile signal inferred from job text,2026-06-05
+"Zendesk, Inc.",zendesk,unknown,,,,False,False,True,False,False,,medium,no reliable enrichment found; offline fallback: company profile signal inferred from job text,2026-06-05
+Microsoft,microsoft,unknown,,,,False,False,True,False,False,,medium,company profile signal inferred from job text; offline fallback: company profile signal inferred from job text,2026-06-05
+Divi Technologies,divi technologies,unknown,,,,False,True,False,False,False,,medium,company profile signal inferred from job text; offline fallback: company profile signal inferred from job text,2026-06-05
+Jobcertify,jobcertify,unknown,,,,False,True,False,False,False,,medium,company profile signal inferred from job text; offline fallback: company profile signal inferred from job text,2026-06-05
+CACI,caci,unknown,,,,False,False,False,True,False,,medium,company profile signal inferred from job text; offline fallback: company profile signal inferred from job text,2026-06-05
+麥肯錫公司,麥肯錫公司,unknown,,,,False,False,False,True,False,,medium,company profile signal inferred from job text; offline fallback: company profile signal inferred from job text,2026-06-05
+B-hive,b hive,unknown,,,,False,True,False,False,False,,medium,company profile signal inferred from job text; offline fallback: company profile signal inferred from job text,2026-06-05
+Cisco,cisco,unknown,,,,False,False,True,True,False,,medium,company profile signal inferred from job text; offline fallback: company profile signal inferred from job text,2026-06-05
+Nvidia,nvidia,unknown,,,,False,False,True,False,False,,medium,company profile signal inferred from job text; offline fallback: company profile signal inferred from job text,2026-06-05
+Hong Kong Applied Science and Technology Research Institute Co. Ltd,hong kong applied science and technology research institute,unknown,,,,False,False,False,True,False,,medium,company profile signal inferred from job text; offline fallback: company profile signal inferred from job text,2026-06-05
+Google,google,unknown,,,,False,False,True,False,False,,medium,company profile signal inferred from job text; offline fallback: company profile signal inferred from job text,2026-06-05
+Unity Microelectronics Inc.,unity microelectronics,unknown,,,,False,False,False,True,True,,medium,company profile signal inferred from job text; offline fallback: company profile signal inferred from job text,2026-06-05
+Pluralis,pluralis,unknown,,,,False,True,False,False,False,,medium,company profile signal inferred from job text; offline fallback: company profile signal inferred from job text,2026-06-05
+Capital One,capital one,unknown,,,,False,False,True,False,False,,medium,company profile signal inferred from job text; offline fallback: company profile signal inferred from job text,2026-06-05
+Intel,intel,unknown,,,,False,False,True,False,False,,medium,company profile signal inferred from job text; offline fallback: company profile signal inferred from job text,2026-06-05
+DraftKings,draftkings,unknown,,,,False,False,False,False,True,,medium,company profile signal inferred from job text; offline fallback: company profile signal inferred from job text,2026-06-05
+Bigpoint GmbH,bigpoint gmbh,unknown,,,,False,False,False,True,False,,medium,company profile signal inferred from job text; offline fallback: company profile signal inferred from job text,2026-06-05
+CACI International,caci international,unknown,,,,False,False,False,True,False,,medium,company profile signal inferred from job text; offline fallback: company profile signal inferred from job text,2026-06-05
+EFI,efi,unknown,,,,False,False,False,True,False,,medium,company profile signal inferred from job text; offline fallback: company profile signal inferred from job text,2026-06-05
+WhyLabs,whylabs,unknown,,,,False,True,False,True,False,,medium,company profile signal inferred from job text; offline fallback: company profile signal inferred from job text,2026-06-05
+Tata Consultancy Services,tata consultancy services,unknown,,,,False,False,False,True,False,,medium,company profile signal inferred from job text; offline fallback: company profile signal inferred from job text,2026-06-05
+Turing,turing,unknown,,,,False,False,False,True,False,,medium,company profile signal inferred from job text; offline fallback: company profile signal inferred from job text,2026-06-05
+Cribl,cribl,unknown,,,,False,True,True,False,False,,medium,online enrichment unavailable: no credits remaining; offline fallback: company profile signal inferred from job text,2026-06-05
+Paramount,paramount,unknown,,,,False,False,True,False,False,,medium,online enrichment unavailable: no credits remaining; offline fallback: company profile signal inferred from job text,2026-06-06
+Bloomberg,bloomberg,unknown,,,,False,False,True,False,False,,medium,online enrichment unavailable: no credits remaining; offline fallback: company profile signal inferred from job text,2026-06-06
+Hidonix Industries,hidonix industries,unknown,,,,False,False,False,True,False,https://hidonix.com/,medium,company profile signal inferred from job text; offline fallback: company profile signal inferred from job text | Manual enrichment: Company website found but no reliable employee-count evidence. Keep unknown.,2026-06-05
+Kalibri Labs,kalibri labs,unknown,51-200 source range,,False,False,False,False,True,False,https://www.linkedin.com/company/kalibri-labs-llc,medium,"company profile signal inferred from job text; offline fallback: company profile signal inferred from job text | Manual enrichment: LinkedIn lists 51-200 employees, which crosses the 100 threshold; keep threshold unknown.",2026-06-05
+Machina Labs,machina labs,unknown,51-200 source range,,False,False,False,False,True,False,https://www.linkedin.com/company/machina-labs,medium,"company profile signal inferred from job text; offline fallback: company profile signal inferred from job text | Manual enrichment: LinkedIn lists 51-200 employees, which crosses the 100 threshold; keep threshold unknown unless manually verified further.",2026-06-05
+JP Morgan Chase & Co.,jp morgan chase and,1-10,3,False,False,False,True,False,False,False,,medium,team of 3,2026-06-05
+Talent Insights Group Pty Ltd,talent insights group pty,100-499,200.0,True,False,False,False,False,False,False,,medium,200 staff,2026-06-05
+Data Idols,data idols,11-50,20.0,False,False,False,True,False,False,False,,medium,20 people,2026-06-05
+Tenera,tenera,11-50,30,False,False,False,True,False,False,False,,medium,30 people,2026-06-06
+Jobright.ai,jobright ai,1-10,10.0,False,False,False,True,False,False,False,,medium,10 employees,2026-06-05
+Wfh,wfh,11-50,50.0,False,False,False,True,False,False,False,,medium,50 employees,2026-06-05
+Stanley Black and Decker,stanley black and decker,1000+,54000,True,True,True,False,False,True,False,,medium,team of 54000,2026-06-05
+TEKsystems,teksystems,1000+,80000.0,True,True,True,False,False,False,False,,medium,team of 80000,2026-06-05
+Robert Half,robert half,100-499,100.0,True,False,False,False,False,False,False,,medium,100 employees,2026-06-05
+"General Dynamics Mission Systems, Inc",general dynamics mission systems,1000+,12000.0,True,True,True,False,False,False,False,,medium,team of 12000,2026-06-05
+UBS,ubs,1000+,60000.0,True,True,True,False,False,False,False,,medium,60000 employees,2026-06-05
+Landing.Partner DE,landing partner de,500-999,500,True,True,False,False,False,False,False,,medium,more than 500 employees,2026-06-06
+Hybris,hybris,1000+,100000.0,True,True,True,False,False,False,False,,medium,more than 100000 employees,2026-06-05
+Huntress,huntress,1-10,2.0,False,False,False,True,False,False,False,,medium,no reliable enrichment found; offline fallback: team of 2,2026-06-05
+GCS Recruitment Specialists Ltd,gcs recruitment specialists,1000+,110000.0,True,True,True,False,False,False,False,,medium,no reliable enrichment found; offline fallback: over 110000 employees,2026-06-05
+Collabera,collabera,1000+,50000.0,True,True,True,False,False,False,False,,medium,no reliable enrichment found; offline fallback: more than 50000 employees,2026-06-05
+Caris Life Sciences,caris life sciences,1000+,1937,True,True,True,False,,True,False,https://www.reveliolabs.com/companies/caris-life-sciences/employees/,medium,"Revelio Labs reports 1,937 employees; biotech/precision oncology research employer.",2026-06-05
+Open Talent,open talent,2-10,2-10,False,False,False,True,,False,False,https://www.linkedin.com/company/open-talent,medium,LinkedIn lists Open Talent as 2-10 employees. Strong below-100 / startup-risk signal.,2026-06-05
+OpenAI,openai,1000+,7849,True,True,True,False,,True,False,https://www.reveliolabs.com/companies/openai-foundation/employees/,medium,"Revelio Labs reports 7,849 employees for OpenAI Foundation in 2025; AI research employer.",2026-06-05
+Lenovo,lenovo,1000+,69500,True,True,True,False,False,False,True,https://www.macrotrends.net/stocks/charts/LNVGY/lenovo-group/number-of-employees,medium,"no reliable enrichment found | Manual enrichment: Macrotrends reports Lenovo had 69,500 employees in 2024.",2026-06-05
+Northramp LLC,northramp,51-99,86,False,False,False,True,,False,False,https://www.zoominfo.com/c/northramp-llc/414703921,medium,ZoomInfo reports 86 employees; LinkedIn gives a broader 51-200 range. Treat as below 100 with medium confidence.,2026-06-05
+Braintrust,braintrust,11-50,11-50,False,False,False,True,,,False,https://www.linkedin.com/company/usebraintrust,medium,LinkedIn lists Braintrust/usebraintrust as 11-50 employees. Ambiguous name; verify if the posting refers to Braintrust.dev instead.,2026-06-05
+Entefy,entefy,11-50,35,False,False,False,True,False,False,False,https://leadiq.com/c/entefy/5a1d9d4c2300005b008d24f1,medium,no reliable enrichment found | Manual enrichment: LeadIQ reports approximately 35 employees; LinkedIn/ZoomInfo also indicate 11-50.,2026-06-05
+University of Illinois,university of illinois,1000+,24442 LinkedIn employees,True,True,True,False,False,True,True,https://www.linkedin.com/school/university-of-illinois-urbana-champaign/,medium,"company profile signal inferred from job text | Manual enrichment: LinkedIn shows 24,442 employees; large public university/research institution.",2026-06-05
+GenBio AI,genbio ai,11-50,41,False,False,False,True,False,True,False,https://getlatka.com/companies/genbio.ai,medium,"no reliable enrichment found | Manual enrichment: GetLatka reports approximately 41 employees; other snippets conflict, so use medium confidence.",2026-06-05
+Emonics LLC,emonics,1000+,1001-5000,True,True,True,False,False,False,False,https://www.linkedin.com/company/emonics,medium,"no reliable enrichment found | Manual enrichment: LinkedIn lists Emonics LLC as 1,001-5,000 employees; another source lists 201-500, so medium confidence.",2026-06-05
+Motion Recruitment,motion recruitment,500-999,501-1000,True,True,False,False,False,False,False,https://www.linkedin.com/company/motion-recruitment-partners,medium,"no reliable enrichment found | Manual enrichment: LinkedIn lists Motion Recruitment as 501-1,000 employees; related Motion Recruitment Partners LLC page lists 1,001-5,000.",2026-06-05
+Anthropic,anthropic,1000+,3673,True,True,True,False,True,True,False,https://www.reveliolabs.com/companies/anthropic-pbc/employees/,medium,"company profile signal inferred from job text; offline fallback: company profile signal inferred from job text | Manual enrichment: Revelio Labs reports 3,673 employees in 2025; AI research employer.",2026-06-05
+Hugging Face,hugging face,500-999,683,True,True,False,False,True,True,False,https://www.reveliolabs.com/companies/hugging-face/employees/,medium,company profile signal inferred from job text; offline fallback: company profile signal inferred from job text | Manual enrichment: Revelio Labs reports 683 employees in 2024; research-focused AI employer.,2026-06-05
+Plaud,plaud,500-999,501-1000,True,True,False,False,,False,False,https://www.linkedin.com/company/plaudai,high,"LinkedIn lists PLAUD as 501-1,000 employees.",2026-06-05
+Victoria's Secret,victoria s secret,1000+,10000+,True,True,True,False,,False,True,https://www.annualreports.com/Company/victorias-secret-co,high,"AnnualReports lists Victoria's Secret & Co. as 10,000+ employees.",2026-06-05
+United Airlines,united airlines,1000+,10000+,True,True,True,False,,False,True,https://www.annualreports.com/Company/united-airlines-holdings-inc,high,"AnnualReports lists United Airlines Holdings as 10,000+ employees.",2026-06-05
+Costco IT,costco it,1000+,333000,True,True,True,False,,False,True,https://s201.q4cdn.com/287523651/files/doc_financials/2024/ar/COST-2024-Annual-Report.pdf,high,"Mapped to Costco Wholesale. Costco 2024 Annual Report reports 333,000 employees worldwide.",2026-06-05
+"Rocket Companies, Inc.",rocket companies,1000+,14200,True,True,True,False,False,False,True,https://www.sec.gov/Archives/edgar/data/1805284/000180528425000010/rkt-20241231.htm,high,"2024 Form 10-K reports approximately 14,200 team members as of 2024-12-31; public company.",2026-06-05
+Jobot,jobot,500-999,501-1000,True,True,False,False,False,False,False,https://www.linkedin.com/company/jobot,high,"no reliable enrichment found | Manual enrichment: LinkedIn lists Jobot as 501-1,000 employees.",2026-06-05
+Rose International,rose international,1000+,5001-10000,True,True,True,False,False,False,False,https://www.linkedin.com/company/rose-international,high,"no reliable enrichment found | Manual enrichment: LinkedIn lists Rose International as 5,001-10,000 employees.",2026-06-05
+Deloitte,deloitte,1000+,470000+,True,True,True,False,False,False,False,https://www.deloitte.com/global/en/about/press-room/global-revenue-announcement.html,high,"no reliable enrichment found | Manual enrichment: Deloitte reported workforce expanded to over 470,000 globally in FY2025.",2026-06-05
+Redfin Corporation,redfin,1000+,4778,True,True,True,False,True,False,True,https://bullfincher.io/companies/redfin-corporation/number-of-employees,high,"no reliable enrichment found; offline fallback: company profile signal inferred from job text | Manual enrichment: Source reports 4,778 Redfin employees in fiscal 2024.",2026-06-05
+Snap Inc.,snap,1000+,4911,True,True,True,False,True,False,True,https://www.macrotrends.net/stocks/charts/SNAP/snap/number-of-employees,high,"no reliable enrichment found; offline fallback: company profile signal inferred from job text | Manual enrichment: Macrotrends reports Snap had 4,911 employees in 2024.",2026-06-05
+Rockstar Games,rockstar games,1000+,1001-5000,True,True,True,False,True,False,True,https://www.linkedin.com/company/rockstar-games,high,"no reliable enrichment found; offline fallback: company profile signal inferred from job text | Manual enrichment: LinkedIn lists Rockstar Games as 1,001-5,000 employees.",2026-06-05
+Uber,uber,1000+,31100,True,True,True,False,True,False,True,https://www.sec.gov/Archives/edgar/data/1543151/000154315125000008/uber-20241231.htm,high,"company profile signal inferred from job text; offline fallback: company profile signal inferred from job text | Manual enrichment: Uber 2024 10-K reports approximately 31,100 employees globally.",2026-06-05
+"Salesforce, Inc.",salesforce,1000+,76453,True,True,True,False,True,True,True,https://s205.q4cdn.com/626266368/files/doc_financials/2025/ar/Salesforce-FY25-Annual-Report.pdf,high,"company profile signal inferred from job text; offline fallback: company profile signal inferred from job text | Manual enrichment: Salesforce FY25 Annual Report reports 76,453 employees as of Jan. 31, 2025.",2026-06-05
+Amazon,amazon,1000+,1556000,True,True,True,False,True,False,True,https://s2.q4cdn.com/299287126/files/doc_financials/2025/ar/Amazon-2024-Annual-Report.pdf,high,"company profile signal inferred from job text; offline fallback: company profile signal inferred from job text | Manual enrichment: Amazon 2024 Annual Report reports approximately 1,556,000 full-time and part-time employees.",2026-06-05

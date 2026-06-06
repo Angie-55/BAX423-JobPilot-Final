@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+outputs/
+data/tmp/
+data/processed/job_embeddings.npy
+data/processed/faiss.index
+data/processed/job_index_map.csv

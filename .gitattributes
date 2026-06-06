@@ -1,0 +1,4 @@
+data/processed/jobs_final.csv filter=lfs diff=lfs merge=lfs -text
+data/processed/job_embeddings.npy filter=lfs diff=lfs merge=lfs -text
+data/processed/faiss.index filter=lfs diff=lfs merge=lfs -text
+data/processed/role_index.pkl filter=lfs diff=lfs merge=lfs -text
